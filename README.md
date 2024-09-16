@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **yariv220895@gmail.com**
 
-- 📄 Know about my experiences [C.V - Yariv Menachem](https://github.com/yariv245/yariv245/blob/main/Yariv%20Menachem%20-%20Resume.pdf)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yarivmen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yarivmen" height="30" width="40" /></a>
