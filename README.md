@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yariv Menachem</h1>
 <h3 align="center">A Experienced Backend developer with years of experience in Java and Spring Boot and a BSc in Computer Science.</h3>
 
-- 🌱 I’m currently learning **Java, Spring boot, NodeJS**
+- 🌱 I’m currently learning **Java, Spring boot, Python**
 
-- 💬 Ask me about **Java, Spring Boot, SQL, AWS, Apache, SQS,**
+- 💬 Ask me about **Java, Spring Boot, SQL, AWS, Apache, SQS, Ai, RAG,**
 
 - 📫 How to reach me **yariv220895@gmail.com**
 
